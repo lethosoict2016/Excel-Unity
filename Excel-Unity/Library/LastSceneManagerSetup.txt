@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Excel4Unity-master/Assets/Test.unity
+  isLoaded: 1
+  isActive: 1
